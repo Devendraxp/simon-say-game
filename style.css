@@ -1,0 +1,37 @@
+.gamename
+{
+    text-align: center;
+    background-color: rgb(237, 238, 239);
+}
+
+.allBoxes{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    height: 150px;
+    width: 150px;
+    border: 3px solid black;
+    border-radius: 10%;
+    margin : 10px;
+}
+.red{
+    background-color: #EE204D;
+}
+.yellow
+{
+background-color: #FCE883;
+}
+.blue
+{
+    background-color: #1F75FE;
+}
+.green
+{
+background-color: #1CAC78;
+}
+.flash{
+    background-color: white;
+}
